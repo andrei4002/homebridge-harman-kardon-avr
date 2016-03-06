@@ -1,0 +1,14 @@
+{
+  "name": "hk",
+  "version": "1.0.0",
+  "description": "##installation * git clone * npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "author": "Andrei Stoicescu",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
