@@ -1,14 +1,22 @@
 {
-  "name": "hk",
+  "name": "homebridge-harman-kardon-avr",
   "version": "1.0.0",
   "description": "##installation * git clone * npm install",
   "main": "index.js",
   "scripts": {
     "test": "n/a"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei4002/homebridge-harman-kardon-avr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrei4002/homebridge-harman-kardon-avr/issues"
+  },
   "author": "Andrei Stoicescu",
   "license": "UNLICENSED",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "request": "^2.69.0"
   }
 }
